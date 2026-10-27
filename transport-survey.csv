@@ -1,0 +1,201 @@
+,gender,transport,num_journeys,journey_time,enjoyment
+0,male,bus,1,23.0,agree
+1,male,bus,3,19.0,agree
+2,male,bus,2,19.0,disagree
+3,female,bus,5,19.0,agree
+4,female,bus,4,25.0,disagree
+5,nonbinary,car,2,34.0,strongly disagree
+6,male,train,4,48.0,agree
+7,female,bus,5,15.0,neutral
+8,male,train,5,35.0,agree
+9,female,bus,3,17.0,disagree
+10,male,walk,4,14.0,strongly agree
+11,female,train,2,46.0,strongly disagree
+12,male,train,2,47.0,agree
+13,female,train,4,36.0,strongly disagree
+14,male,walk,4,9.0,neutral
+15,female,bus,5,18.0,neutral
+16,male,bus,1,14.0,disagree
+17,female,bus,2,17.0,neutral
+18,male,walk,2,16.0,agree
+19,male,bus,5,22.0,agree
+20,male,bus,5,28.0,strongly agree
+21,female,train,1,32.0,neutral
+22,female,walk,3,10.0,neutral
+23,male,bus,1,12.0,disagree
+24,male,bus,1,26.0,disagree
+25,female,bus,5,14.0,agree
+26,male,car,2,30.0,strongly disagree
+27,male,train,4,49.0,agree
+28,female,walk,4,11.0,agree
+29,female,train,4,43.0,agree
+30,male,train,2,31.0,neutral
+31,female,car,3,36.0,disagree
+32,male,train,4,28.0,strongly disagree
+33,female,train,5,35.0,neutral
+34,male,bus,1,17.0,disagree
+35,male,bus,5,18.0,disagree
+36,female,walk,5,18.0,neutral
+37,,bus,1,24.0,disagree
+38,female,train,4,48.0,neutral
+39,female,bus,2,25.0,disagree
+40,female,train,4,28.0,strongly agree
+41,male,bus,2,20.0,agree
+42,female,bus,4,26.0,disagree
+43,female,train,5,51.0,disagree
+44,female,train,3,47.0,disagree
+45,,train,3,38.0,strongly disagree
+46,female,bus,2,24.0,neutral
+47,female,walk,1,14.0,neutral
+48,male,train,4,34.0,disagree
+49,nonbinary,train,5,47.0,neutral
+50,female,train,2,40.0,neutral
+51,female,walk,1,15.0,neutral
+52,female,train,4,44.0,neutral
+53,female,bus,1,23.0,agree
+54,,train,3,36.0,strongly agree
+55,female,walk,3,11.0,agree
+56,female,walk,4,14.0,neutral
+57,male,train,2,35.0,disagree
+58,female,train,4,40.0,disagree
+59,male,walk,2,17.0,neutral
+60,male,train,4,38.0,strongly agree
+61,male,train,5,38.0,neutral
+62,female,walk,2,11.0,strongly agree
+63,male,walk,2,16.0,agree
+64,female,walk,4,14.0,strongly agree
+65,female,walk,1,17.0,agree
+66,female,bus,4,25.0,strongly disagree
+67,female,train,5,44.0,disagree
+68,male,train,4,38.0,neutral
+69,female,train,4,45.0,disagree
+70,female,bus,2,28.0,neutral
+71,female,train,3,31.0,neutral
+72,male,train,3,44.0,agree
+73,male,bus,3,22.0,agree
+74,male,bus,5,22.0,disagree
+75,female,bus,5,21.0,disagree
+76,female,car,3,23.0,disagree
+77,female,walk,5,14.0,neutral
+78,female,train,4,46.0,strongly disagree
+79,male,bus,4,16.0,neutral
+80,female,bus,2,18.0,strongly agree
+81,female,walk,4,12.0,neutral
+82,,bus,5,23.0,strongly agree
+83,female,car,2,39.0,strongly agree
+84,male,train,1,32.0,strongly disagree
+85,male,train,4,35.0,strongly agree
+86,female,walk,4,6.0,neutral
+87,male,train,1,47.0,disagree
+88,female,bus,5,25.0,disagree
+89,male,walk,1,17.0,disagree
+90,nonbinary,walk,5,12.0,disagree
+91,,bus,1,22.0,neutral
+92,male,walk,4,21.0,strongly agree
+93,female,train,5,32.0,neutral
+94,female,bus,2,17.0,neutral
+95,male,bus,2,25.0,agree
+96,male,bus,4,18.0,disagree
+97,female,train,5,47.0,agree
+98,male,bus,1,17.0,disagree
+99,,train,5,38.0,neutral
+100,female,bus,3,13.0,neutral
+101,female,walk,2,13.0,agree
+102,female,train,4,42.0,agree
+103,male,walk,4,16.0,disagree
+104,female,bus,2,25.0,agree
+105,female,walk,5,18.0,neutral
+106,female,train,4,39.0,strongly agree
+107,female,train,4,50.0,agree
+108,female,train,2,50.0,agree
+109,male,train,5,41.0,neutral
+110,male,walk,5,17.0,neutral
+111,male,train,4,46.0,neutral
+112,female,bus,5,21.0,disagree
+113,male,train,2,37.0,neutral
+114,male,train,3,44.0,strongly disagree
+115,male,bus,4,22.0,disagree
+116,female,bus,5,16.0,disagree
+117,female,train,2,42.0,disagree
+118,male,walk,1,17.0,agree
+119,male,bus,4,20.0,agree
+120,female,walk,1,11.0,agree
+121,female,train,4,57.0,agree
+122,male,train,1,53.0,neutral
+123,female,train,4,53.0,neutral
+124,female,walk,3,18.0,neutral
+125,female,walk,4,15.0,disagree
+126,female,car,5,8.0,strongly agree
+127,male,bus,4,26.0,disagree
+128,female,train,4,54.0,agree
+129,male,train,1,33.0,disagree
+130,female,bus,2,22.0,neutral
+131,male,train,2,40.0,disagree
+132,female,train,5,52.0,strongly disagree
+133,female,train,1,31.0,agree
+134,nonbinary,walk,2,20.0,neutral
+135,male,train,2,44.0,neutral
+136,female,walk,5,11.0,strongly agree
+137,male,walk,5,10.0,disagree
+138,male,car,3,35.0,strongly disagree
+139,male,train,4,50.0,disagree
+140,female,walk,1,13.0,agree
+141,trans,car,4,27.0,strongly agree
+142,female,bus,2,18.0,neutral
+143,male,walk,3,18.0,strongly agree
+144,female,bus,1,19.0,disagree
+145,female,walk,3,13.0,neutral
+146,male,bus,4,16.0,neutral
+147,female,bus,4,16.0,disagree
+148,male,train,1,43.0,neutral
+149,male,walk,3,17.0,strongly agree
+150,male,bus,2,18.0,strongly agree
+151,female,train,4,39.0,agree
+152,female,train,5,28.0,agree
+153,female,train,2,43.0,disagree
+154,,train,4,38.0,disagree
+155,female,walk,2,18.0,disagree
+156,trans,train,4,25.0,neutral
+157,male,walk,3,19.0,disagree
+158,female,train,3,39.0,disagree
+159,female,bus,2,20.0,strongly disagree
+160,male,train,1,42.0,neutral
+161,male,train,4,34.0,neutral
+162,male,train,3,43.0,disagree
+163,male,train,5,42.0,agree
+164,male,bus,4,18.0,agree
+165,female,train,5,46.0,neutral
+166,male,car,5,31.0,neutral
+167,female,train,2,34.0,disagree
+168,male,walk,4,14.0,strongly agree
+169,female,train,4,37.0,strongly disagree
+170,male,train,3,43.0,neutral
+171,male,train,4,57.0,agree
+172,male,bus,3,19.0,neutral
+173,male,train,1,49.0,strongly agree
+174,male,walk,5,9.0,agree
+175,male,train,4,30.0,neutral
+176,female,train,3,32.0,agree
+177,female,train,3,38.0,neutral
+178,female,train,2,37.0,strongly disagree
+179,female,walk,5,18.0,agree
+180,male,bus,1,19.0,disagree
+181,female,bus,1,19.0,neutral
+182,nonbinary,train,5,45.0,neutral
+183,male,walk,3,11.0,disagree
+184,male,train,3,39.0,agree
+185,,walk,3,18.0,agree
+186,female,train,2,37.0,neutral
+187,female,train,4,54.0,neutral
+188,female,walk,5,17.0,agree
+189,male,train,4,40.0,neutral
+190,male,train,2,42.0,agree
+191,male,walk,5,17.0,neutral
+192,female,bus,4,10.0,disagree
+193,female,train,1,44.0,agree
+194,female,train,4,33.0,strongly disagree
+195,female,bus,1,27.0,neutral
+196,female,walk,3,10.0,neutral
+197,female,bus,4,20.0,neutral
+198,male,walk,2,19.0,agree
+199,female,walk,5,22.0,agree
